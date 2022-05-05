@@ -1,9 +1,4 @@
-# 👋 Hello World
-
-<!--
-**raghuvamsiyaram/raghuvamsiyaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hello World. I'm Raghu Vamsi Yaram! 👋 
 
 I am a computer science graduate from Acharya Nagarjuna University, Guntur.
 
@@ -14,4 +9,3 @@ I am a computer science graduate from Acharya Nagarjuna University, Guntur.
 - 💬 Ask me about anything related to Math intuition around ML concepts and Data Science.
 - 📫 Reach me: Mail : Yaram Raghu Vamsi
 - 😄 Pronouns: He/His
--->
